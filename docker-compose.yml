@@ -30,8 +30,8 @@ services:
       KC_HOSTNAME_STRICT_HTTPS: false
 
       KC_HTTP_ENABLED: true
-      KC_HOSTNAME_URL: "https://keycloak.oobeya.io"
-      KC_HOSTNAME_ADMIN_URL: "https://keycloak.oobeya.io"
+      KC_HOSTNAME_URL: "https://keycloak.domain.io"
+      KC_HOSTNAME_ADMIN_URL: "https://keycloak.domain.io"
 
       KC_LOG_LEVEL: info
       KC_METRICS_ENABLED: true
